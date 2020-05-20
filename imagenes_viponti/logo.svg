@@ -1,0 +1,71 @@
+<svg id="830a00a5-03a9-4a10-997f-a158cbd3f463" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 469.91431 542.11235">
+  <defs>
+    <style>
+      .\30 684ec39-678f-4522-bc63-42fd3580b000, .baaa5bf3-762d-4a2b-9f4a-c2f3e1830e87 {
+        fill: #dc9628;
+      }
+
+      .baaa5bf3-762d-4a2b-9f4a-c2f3e1830e87, .fbce4598-2d68-4088-90c6-e85858b8dab6, .fdf1d31a-3999-4e29-819f-d0c6674e49cc {
+        stroke: #1d1d1b;
+      }
+
+      .baaa5bf3-762d-4a2b-9f4a-c2f3e1830e87 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .baaa5bf3-762d-4a2b-9f4a-c2f3e1830e87, .fbce4598-2d68-4088-90c6-e85858b8dab6 {
+        stroke-width: 7px;
+      }
+
+      .\35 f17d595-d85e-4e71-9217-b7efd3bca98c, .\39 da5725a-e42e-40f0-9126-861bbf1bd73e, .d37715ff-d662-4f71-a843-833ee7634294, .fdf1d31a-3999-4e29-819f-d0c6674e49cc {
+        fill: #1d1d1b;
+      }
+
+      .fbce4598-2d68-4088-90c6-e85858b8dab6 {
+        fill: none;
+      }
+
+      .fbce4598-2d68-4088-90c6-e85858b8dab6, .fdf1d31a-3999-4e29-819f-d0c6674e49cc {
+        stroke-linecap: square;
+        stroke-linejoin: bevel;
+      }
+
+      .fdf1d31a-3999-4e29-819f-d0c6674e49cc {
+        stroke-width: 4px;
+      }
+
+      .\30 684ec39-678f-4522-bc63-42fd3580b000 {
+        font-size: 87.78519px;
+        letter-spacing: 0.075em;
+      }
+
+      .\30 684ec39-678f-4522-bc63-42fd3580b000, .d37715ff-d662-4f71-a843-833ee7634294 {
+        font-family: FuturaStd-Book, Futura Std;
+      }
+
+      .\35 f17d595-d85e-4e71-9217-b7efd3bca98c {
+        font-size: 64.68382px;
+        letter-spacing: 0.075em;
+      }
+
+      .d37715ff-d662-4f71-a843-833ee7634294 {
+        font-size: 32.34191px;
+        letter-spacing: 1.24999em;
+      }
+    </style>
+  </defs>
+  <title>logo</title>
+  <rect class="baaa5bf3-762d-4a2b-9f4a-c2f3e1830e87" x="3.5" y="3.5" width="462.91431" height="525.17223"/>
+  <rect class="9da5725a-e42e-40f0-9126-861bbf1bd73e" x="3.5" y="431.6465" width="462.91431" height="97.02572"/>
+  <path class="fbce4598-2d68-4088-90c6-e85858b8dab6" d="M162.64334,350.03687c6.33321-9.188,74.77437-104.86178,196.91339-104.72374,122.37851.13832,190.656,96.34245,196.91347,105.49381-6.56846,9.41038-75.1475,104.09855-196.91579,103.95854C237.55211,454.62518,169.137,359.41482,162.64334,350.03687Z" transform="translate(-124.36651 -55.46089)"/>
+  <ellipse class="9da5725a-e42e-40f0-9126-861bbf1bd73e" cx="233.69847" cy="294.57841" rx="97.33787" ry="104.72618"/>
+  <path class="fdf1d31a-3999-4e29-819f-d0c6674e49cc" d="M183.34167,271.68716v46.58775" transform="translate(-124.36651 -55.46089)"/>
+  <path class="fdf1d31a-3999-4e29-819f-d0c6674e49cc" d="M534.05869,272.2647v45.79844" transform="translate(-124.36651 -55.46089)"/>
+  <path class="fdf1d31a-3999-4e29-819f-d0c6674e49cc" d="M358.99737,197.18526v45.62519" transform="translate(-124.36651 -55.46089)"/>
+  <path class="fdf1d31a-3999-4e29-819f-d0c6674e49cc" d="M259.42184,221.44169v41.96748" transform="translate(-124.36651 -55.46089)"/>
+  <path class="fdf1d31a-3999-4e29-819f-d0c6674e49cc" d="M458.01348,222.21174v41.4862" transform="translate(-124.36651 -55.46089)"/>
+  <path class="fbce4598-2d68-4088-90c6-e85858b8dab6" d="M131.31623,316.15729c47.08312-74.20715,134.30769-120.02608,228.33526-119.93461,148.735.14469,224.691,115.07736,227.77285,119.93461" transform="translate(-124.36651 -55.46089)"/>
+  <text class="0684ec39-678f-4522-bc63-42fd3580b000" transform="translate(54.38349 515.61967) scale(0.96862 1.03)">VIPONTI<tspan class="5f17d595-d85e-4e71-9217-b7efd3bca98c" x="377.12186" y="0"> </tspan></text>
+  <text class="d37715ff-d662-4f71-a843-833ee7634294" transform="translate(56.87519 64.06596) scale(0.96862 1.03)">ESTUDIO</text>
+</svg>
